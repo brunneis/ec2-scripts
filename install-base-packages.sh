@@ -1,6 +1,6 @@
 #!/bin/bash
 
 sudo yum -y install \
-  nano
-  htop
+  nano \
+  htop \
   git
